@@ -2,8 +2,8 @@
 
 Gui based tkinter converter
 
-#Installation:
+# Installation:
 
-Pip install pyaudio
-pip install gTTS
-pip insatll speech_recognition
+1.Pip install pyaudio<br />
+2.pip install gTTS<br />
+3.pip insatll speech_recognition
