@@ -1,3 +1,9 @@
 # Tkinter-speech-converter
 
-This is just a basic python app that converts text to speech and speech to text.
+Gui based tkinter converter
+
+#Installation:
+
+Pip install pyaudio
+pip install gTTS
+pip insatll speech_recognition
